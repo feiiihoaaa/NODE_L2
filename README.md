@@ -1,2 +1,1 @@
 # NODE_L2
-NODE_L2
